@@ -1,0 +1,17 @@
+{
+  "name": "hello-namek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Bil Benhamou",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.16.1",
+    "cors": "2.8.1",
+    "express": "4.14.1"
+  }
+}
